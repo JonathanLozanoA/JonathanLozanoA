@@ -25,6 +25,6 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/paypal/paypal-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/paypal/paypal-ar21.svg"></code>
 </p>
