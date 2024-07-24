@@ -1,5 +1,5 @@
 <h1>Hello, I’m Jonathan Lozano 🙋‍♂️</h1>
-<h2>Web Developer 👨🏻‍💻 | Founder & CEO at eShop Aveloz Sport</h2>
+<h2>Web Developer 👨🏻‍💻 | Founder & CEO at eShop Aveloz Sport.</h2>
 
 <h2>My tech stack and tools:</h2>
 
