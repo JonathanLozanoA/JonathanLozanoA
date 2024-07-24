@@ -1,8 +1,10 @@
 <h1>Hello, I’m Jonathan Lozano 🙋‍♂️</h1>
 <h2>Web Developer 👨🏻‍💻 | Founder & CEO at eShop Aveloz Sport.</h2>
 
-<h2>My tech stack and tools:</h2>
+<h2>About me 📌</h2>
 
+
+<h2>My tech stack and tools:</h2>
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
@@ -24,4 +26,14 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg"></code>
+</p>
+
+<h2>Connect with me </h2>
+<p>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg"></code>  
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg"></code>  
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg"></code>
 </p>
