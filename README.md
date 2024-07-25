@@ -1,4 +1,4 @@
-<img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+<img align="right" height="280px" alt="Hombre codficando fuertemente de noche" width="350px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/> </a>
 <h1>Hello, I’m Jonathan Lozano 🙋‍♂️</h1>
 <h2>📈 Founder & CEO at eShop Aveloz Sport 🛒</h2>
 <h2>👨🏻‍💻 Front-end Web Developer 💻</h2>
@@ -31,7 +31,7 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg"></code>
 </p>
 
-<h2>Connect with me </h2>
+<h2>Connect with me:</h2>
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg"></code>
@@ -40,3 +40,12 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg"></code>  
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg"></code>
 </p>
+
+<hr>
+
+<h2>Thank you for visiting my profile 😚</h2>
+
+![Visitor Count](https://profile-counter.glitch.me/JonathanLozanoA/count.svg)
+
+
+<hr>
