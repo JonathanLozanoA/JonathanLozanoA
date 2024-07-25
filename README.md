@@ -1,6 +1,7 @@
 <div>
   <img align="right" height="280px" alt="Hombre codficando fuertemente de noche" width="350px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 </div>
+
 <div>
   <h1>Hello, I’m Jonathan Lozano 🙋‍♂️</h1>
   <br>
@@ -60,6 +61,6 @@
 <br>
 <br>
 <div>
-  <h2>Thank you for visiting my profile 😚</h2>
+  <h2>If you got this far, thank you very much for visiting my profile 🎊</h2>
   <img src="https://profile-counter.glitch.me/JonathanLozanoA/count.svg">
 </div>
