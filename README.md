@@ -1,7 +1,10 @@
+<img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 <h1>Hello, I’m Jonathan Lozano 🙋‍♂️</h1>
-<h2>Web Developer 👨🏻‍💻 | Founder & CEO at eShop Aveloz Sport.</h2>
+<h2>📈 Founder & CEO at eShop Aveloz Sport 🛒</h2>
+<h2>👨🏻‍💻 Front-end Web Developer 💻</h2>
+<h2>🇨🇴 I’m Colombian and I like code and coffee ☕</h2>
 
-<h2>About me 📌</h2>
+<br>
 
 
 <h2>My tech stack and tools:</h2>
