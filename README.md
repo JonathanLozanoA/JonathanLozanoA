@@ -2,7 +2,7 @@
   <h1>Hello, I’m Jonathan Lozano Alcalá 🙋🏻‍♂️</h1>
   <br>
   <div>
-  <img align="right" height="280px" alt="Hombre codficando fuertemente de noche" width="350px" src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif"/>
+  <img align="right" height="270px" alt="Hombre codficando fuertemente de noche" width="350px" src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif"/>
   </div>
   <br>
   <h2>👨🏻‍💻 Front-end Web Developer</h2>
