@@ -61,6 +61,7 @@
   <code><img width="10%" src="https://img.icons8.com/?size=100&id=FgMs84V9yrMV&format=png&color=000000" alt=" Platzi Academy "></code>
   <code><img width="10%" src="https://img.icons8.com/?size=100&id=ggJ9-fogDAOl&format=png&color=000000" alt=" HakerRank "></code>
   <code><img width="10%" src="https://img.icons8.com/?size=100&id=iFKcwyDenGIe&format=png&color=000000" alt=" ko-fi "></code>
+  <code><a href="https://ko-fi.com/jonathanlozanoa" width="10%" src="https://img.icons8.com/?size=100&id=iFKcwyDenGIe&format=png&color=000000" alt=" ko-fi "></code>
   </p>
 </div>
 <br>
