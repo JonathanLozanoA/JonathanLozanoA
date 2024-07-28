@@ -3,6 +3,7 @@
   <br>
   <div>
   <img align="right" height="300px" alt="Hombre codficando fuertemente de noche" width="340px" src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif"/>
+  <br>
   </div>
   <h2>👨🏻‍💻 Front-end Web Developer</h2>
   <h2>🛡 Learning CyberSegurity</h2>
