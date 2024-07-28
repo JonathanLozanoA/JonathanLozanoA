@@ -14,26 +14,26 @@
 <div>
   <h2>My tech stack and tools:</h2>
   <p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt=" Javascript "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt=" HTML "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt=" CSS "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" alt=" Angular "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" alt=" Bootstrap "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt=" Node JS "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt=" Terminal Git "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" alt=" GitHub "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt=" Figma "></code>
   <br>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/zoomus/zoomus-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>
-  <br>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/paypal/paypal-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg"></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt=" Visual Studio Code "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=FbRY9JkBrjiX&format=png&color=000000" alt=" Cyber Segurity "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=6yIWVyFTE0no&format=png&color=000000" alt=" Google Sheets "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=82ewLsKHYlLc&format=png&color=000000" alt=" Zoom "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=kikR2jIn6485&format=png&color=000000" alt=" Slack "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=13611&format=png&color=000000" alt=" PayPal "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=uSHYbs6PJfMT&format=png&color=000000" alt=" Shopify "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" alt=" Photoshop "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" alt=" Canva "></code>
   </p>
 </div>
 <br>
