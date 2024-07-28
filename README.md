@@ -6,7 +6,7 @@
   <h1>🙋🏻‍♂️ Hello, I’m Jonathan Lozano Alcalá</h1>
   <br>
   <h2>👨🏻‍💻 Front-end Web Developer</h2>
-  <h2>🛒Founder & CEO at eShop Aveloz Sport</h2>
+  <h2>🛒 Founder & CEO at eShop Aveloz Sport</h2>
   <h2>🇨🇴 I’m Colombian and I like code and coffee</h2>
 </div>
 <br>
@@ -27,7 +27,7 @@
   <code><img width="9%" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt=" Visual Studio Code "></code>
   <code><img width="9%" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt=" Figma "></code>
   <code><img width="9%" src="https://img.icons8.com/?size=100&id=ui4CTPMMDCFh&format=png&color=000000" alt=" Google Ads "></code>
-  <code><img width="9%" height="80px" src="https://img.icons8.com/?size=100&id=avtI03bQMwX3&format=png&color=000000" alt=" Google Analytics "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=avtI03bQMwX3&format=png&color=000000" alt=" Google Analytics "></code>
   <code><img width="9%" src="https://img.icons8.com/?size=100&id=6yIWVyFTE0no&format=png&color=000000" alt=" Google Sheets "></code>
   <code><img width="9%" src="https://img.icons8.com/?size=100&id=pE97I4t7Il9M&format=png&color=000000" alt=" Google meet "></code>
   <code><img width="9%" src="https://img.icons8.com/?size=100&id=kikR2jIn6485&format=png&color=000000" alt=" Slack "></code>
