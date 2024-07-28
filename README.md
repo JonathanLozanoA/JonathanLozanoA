@@ -19,20 +19,20 @@
   <code><img width="9%" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt=" CSS "></code>
   <code><img width="9%" src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" alt=" Angular "></code>
   <code><img width="9%" src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" alt=" Bootstrap "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=QSjnrUKYMnxO&format=png&color=000000" alt=" SQL "></code>
   <code><img width="9%" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt=" Node JS "></code>
   <code><img width="9%" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt=" Terminal Git "></code>
   <code><img width="9%" src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" alt=" GitHub "></code>
-  <code><img width="9%" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt=" Figma "></code>
   <br>
   <code><img width="9%" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt=" Visual Studio Code "></code>
-  <code><img width="9%" src="https://img.icons8.com/?size=100&id=FbRY9JkBrjiX&format=png&color=000000" alt=" Cyber Segurity "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt=" Figma "></code>
   <code><img width="9%" src="https://img.icons8.com/?size=100&id=ui4CTPMMDCFh&format=png&color=000000" alt=" Google Ads "></code>
-  <code><img width="9%" height="80px" src="" alt=" Google Analytics "></code>
+  <code><img width="9%" height="80px" src="https://img.icons8.com/?size=100&id=avtI03bQMwX3&format=png&color=000000" alt=" Google Analytics "></code>
   <code><img width="9%" src="https://img.icons8.com/?size=100&id=6yIWVyFTE0no&format=png&color=000000" alt=" Google Sheets "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=pE97I4t7Il9M&format=png&color=000000" alt=" Google meet "></code>
   <code><img width="9%" src="https://img.icons8.com/?size=100&id=kikR2jIn6485&format=png&color=000000" alt=" Slack "></code>
-  <code><img width="9%" src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" alt=" Canva "></code>
   <code><img width="9%" src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" alt=" Photoshop "></code>  
-  <code><img width="9%" src="https://img.icons8.com/?size=100&id=19592&format=png&color=000000" alt=" Video Edit "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=e57Y1CnsOasB&format=png&color=000000" alt=" Video Edit "></code>
   </p>
 </div>
 <br>
@@ -47,15 +47,15 @@
 <br>
 <br>
 <div>
-  <h2>Connect with me:</h2>
+  <h2>Connect with me & more:</h2>
   <p>
   <code><img width="9%" src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" alt=" LinkedIn "></code>
   <code><img width="9%" src="https://img.icons8.com/?size=100&id=td499GRWwrWC&format=png&color=000000" alt=" Gmail "></code>
-  <code><img width="9%" src="https://img.icons8.com/?size=100&id=n98knU41v5Aq&format=png&color=000000" alt=" Comunidad DEV "></code>
-  <code><img width="9%" src="https://img.icons8.com/?size=100&id=zO3uMctnm3XD&format=png&color=000000" alt=" Codepen "></code>
-  <code><img width="9%" src="https://img.icons8.com/?size=100&id=80695&format=png&color=000000" alt=" Estudios Platzi"></code>
-  <code><img width="9%" src="https://img.icons8.com/?size=100&id=GrB4pIL3oEaC&format=png&color=000000" alt=" FreeCodeCamp "></code>
   <code><img width="9%" src="https://img.icons8.com/?size=100&id=80462&format=png&color=000000" alt=" GitHub pages "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=n98knU41v5Aq&format=png&color=000000" alt=" Comunidad DEV "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=38382&format=png&color=000000" alt=" Codepen "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=ggJ9-fogDAOl&format=png&color=000000" alt=" HakerRank "></code>
+  <code><img width="9%" src="https://img.icons8.com/?size=100&id=6A2Q6iNZ0zER&format=png&color=000000" alt=" Platzi Academy "></code>
   <code><img width="9%" src="https://img.icons8.com/?size=100&id=80593&format=png&color=000000" alt=" Instagram "></code>
   <code><img width="9%" src="https://img.icons8.com/?size=100&id=iFKcwyDenGIe&format=png&color=000000" alt=" ko-fi "></code>
   </p>
