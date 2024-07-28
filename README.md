@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <h1>🙋🏻‍♂️ Hello, I’m Jonathan Lozano Alcalá</h1>
+  <h1>Hello, I’m Jonathan Lozano Alcalá</h1>
   <br>
   <h2>👨🏻‍💻 Front-end Web Developer</h2>
   <h2>🛒Founder & CEO at eShop Aveloz Sport</h2>
