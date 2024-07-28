@@ -7,6 +7,7 @@
   <br>
   <br>
   <h2>👨🏻‍💻 Front-end Web Developer</h2>
+  <h2>🛡 Learning CyberSegurity</h2>
   <h2>🛒 Founder & CEO at eShop Aveloz Sport</h2>
   <h2>🇨🇴 I’m Colombian and I like code and coffee</h2>
 </div>
