@@ -50,13 +50,13 @@
 <div>
   <h2>Connect with me & more:</h2>
   <p>
-  <code><img width="10.5%" src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" alt=" LinkedIn "></code>
-  <code><img width="10.5%" src="https://img.icons8.com/?size=100&id=n98knU41v5Aq&format=png&color=000000" alt=" Comunidad DEV "></code>
-  <code><img width="10.5%" src="https://img.icons8.com/?size=100&id=80593&format=png&color=000000" alt=" Instagram "></code>
-  <code><img width="10.5%" src="https://img.icons8.com/?size=100&id=iFKcwyDenGIe&format=png&color=000000" alt=" ko-fi "></code>
-  <code><img width="10.5%" src="https://img.icons8.com/?size=100&id=80462&format=png&color=000000" alt=" GitHub pages "></code>
-  <code><img width="10.5%" src="https://img.icons8.com/?size=100&id=ggJ9-fogDAOl&format=png&color=000000" alt=" HakerRank "></code>
-  <code><img width="10.5%" src="https://img.icons8.com/?size=100&id=FgMs84V9yrMV&format=png&color=000000" alt=" Platzi Academy "></code>
+  <code><img width="10%" src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" alt=" LinkedIn "></code>
+  <code><img width="10%" src="https://img.icons8.com/?size=100&id=n98knU41v5Aq&format=png&color=000000" alt=" Comunidad DEV "></code>
+  <code><img width="10%" src="https://img.icons8.com/?size=100&id=80593&format=png&color=000000" alt=" Instagram "></code>
+  <code><img width="10%" src="https://img.icons8.com/?size=100&id=iFKcwyDenGIe&format=png&color=000000" alt=" ko-fi "></code>
+  <code><img width="10%" src="https://img.icons8.com/?size=100&id=80462&format=png&color=000000" alt=" GitHub pages "></code>
+  <code><img width="10%" src="https://img.icons8.com/?size=100&id=ggJ9-fogDAOl&format=png&color=000000" alt=" HakerRank "></code>
+  <code><img width="10%" src="https://img.icons8.com/?size=100&id=FgMs84V9yrMV&format=png&color=000000" alt=" Platzi Academy "></code>
   </p>
 </div>
 <br>
