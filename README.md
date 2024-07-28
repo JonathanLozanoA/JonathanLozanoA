@@ -65,6 +65,6 @@
 </div>
 <br>
 <div>
-  <h2>If you got this far, thank you very much for visiting my profile 👔🤝🏼</h2>
+  <h2>If you got this far, thank you for viewing my profile 👔🤝🏼</h2>
   <img src="https://profile-counter.glitch.me/JonathanLozanoA/count.svg">
 </div>
