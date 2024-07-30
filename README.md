@@ -54,13 +54,13 @@
 <div>
   <h2>Connect with me & more:</h2>
   <p>
-  <code><img width="10%" src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" alt=" LinkedIn "></code>
-  <code><img width="10%" src="https://img.icons8.com/?size=100&id=n98knU41v5Aq&format=png&color=000000" alt=" Comunidad DEV "></code>
-  <code><img width="10%" src="https://img.icons8.com/?size=100&id=80593&format=png&color=000000" alt=" Instagram "></code>
-  <code><img width="10%" src="https://img.icons8.com/?size=100&id=80462&format=png&color=000000" alt=" GitHub pages "></code>
-  <code><img width="10%" src="https://img.icons8.com/?size=100&id=FgMs84V9yrMV&format=png&color=000000" alt=" Platzi Academy "></code>
-  <code><img width="10%" src="https://img.icons8.com/?size=100&id=ggJ9-fogDAOl&format=png&color=000000" alt=" HakerRank "></code>
-  <code><img width="10%" href="https://ko-fi.com/jonathanlozanoa" src="https://img.icons8.com/?size=100&id=iFKcwyDenGIe&format=png&color=000000"  alt=" ko-fi "></code>
+  <code><a href="https://www.linkedin.com/in/jonathan-lozano-alcal%C3%A1-775780281/"><img width="10%" src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" alt=" LinkedIn "/></a></code>
+  <code><a href="https://dev.to/jonathanlozanoalcala"><img width="10%" src="https://img.icons8.com/?size=100&id=n98knU41v5Aq&format=png&color=000000" alt=" Comunidad DEV "/></a></code>
+  <code><a href="https://www.instagram.com/jonathan.lozanoa/"><img width="10%" src="https://img.icons8.com/?size=100&id=80593&format=png&color=000000" alt=" Instagram "/></a></code>
+  <code><a href=""><img width="10%" src="https://img.icons8.com/?size=100&id=80462&format=png&color=000000" alt=" GitHub pages "/></a></code>
+  <code><a href="https://platzi.com/p/JonathanLozanoA/"><img width="10%" src="https://img.icons8.com/?size=100&id=FgMs84V9yrMV&format=png&color=000000" alt=" Platzi Academy "/></a></code>
+  <code><a href=""><img width="10%" src="https://img.icons8.com/?size=100&id=ggJ9-fogDAOl&format=png&color=000000" alt=" HakerRank "/></a></code>
+  <code><a href="https://ko-fi.com/jonathanlozanoa"><img width="10%" href="https://ko-fi.com/jonathanlozanoa" src="https://img.icons8.com/?size=100&id=iFKcwyDenGIe&format=png&color=000000"  alt=" ko-fi "/></a></code>
   </p>
 </div>
 <br>
