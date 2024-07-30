@@ -59,7 +59,7 @@
   <code><a href="https://www.instagram.com/jonathan.lozanoa/"><img width="10%" src="https://img.icons8.com/?size=100&id=80593&format=png&color=000000" alt=" Instagram "/></a></code>
   <code><a href=""><img width="10%" src="https://img.icons8.com/?size=100&id=80462&format=png&color=000000" alt=" GitHub pages "/></a></code>
   <code><a href="https://platzi.com/p/JonathanLozanoA/"><img width="10%" src="https://img.icons8.com/?size=100&id=FgMs84V9yrMV&format=png&color=000000" alt=" Platzi Academy "/></a></code>
-  <code><a href=""><img width="10%" src="https://img.icons8.com/?size=100&id=ggJ9-fogDAOl&format=png&color=000000" alt=" HakerRank "/></a></code>
+  <code><a href=""><img width="10%" src="https://img.icons8.com/?size=100&id=OUPsEPLKIebZ&format=png&color=000000" alt=" HakerRank "/></a></code>
   <code><a href="https://ko-fi.com/jonathanlozanoa"><img width="10%" href="https://ko-fi.com/jonathanlozanoa" src="https://img.icons8.com/?size=100&id=iFKcwyDenGIe&format=png&color=000000"  alt=" ko-fi "/></a></code>
   </p>
 </div>
