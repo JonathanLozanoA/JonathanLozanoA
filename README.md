@@ -8,7 +8,7 @@
   <h2>👨🏻‍💻 Front-end Web Developer</h2>
   <h2>🛡 Learning CyberSegurity</h2>
   <h2>🛒 Founder & CEO at eShop Aveloz Sport</h2>
-  <h2>🇨🇴 I’m Colombian and I like code and coffee</h2>  
+  <h2>😎 I’m from Colombia and I like code and coffee</h2>  
 </div>
 <br>
 <br>
@@ -67,5 +67,3 @@
 <div>
   <h2>If you got this far, thank you for viewing my profile 👔🤝🏼</h2>
   <img src="https://profile-counter.glitch.me/JonathanLozanoA/count.svg">
-</div>
- <h2>🙏 NEED MONEY FOR PORSCHE 🚘</h2>
